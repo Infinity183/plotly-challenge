@@ -1,2 +1,3 @@
 # plotly-challenge
-For Homework 15.
+
+For this challenge, I developed a JS app with functions that applied D3 actions to construct charts plotting info about the biodiversity found on different samples' belly buttons. Additionally, a panel lists the current subject's demographic data.
